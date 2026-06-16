@@ -1,0 +1,226 @@
+[2026-05-26 11:30:34] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-26 11:30:34] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-26 13:04:39] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-26 13:04:39] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-26 13:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-26 13:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-26 22:37:26] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-26 22:37:26] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-27 16:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-27 16:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-27 21:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-27 21:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-29 12:00:53] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-29 12:00:53] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 14:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 14:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 15:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 15:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 16:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 16:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 17:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 17:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 18:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 18:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 19:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 19:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 20:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 20:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 21:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 21:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-05-30 22:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-05-30 22:34:44] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-01 10:36:35] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-01 10:36:35] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-01 11:21:08] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-01 11:21:08] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-01 11:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-01 11:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-01 16:50:43] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-01 16:50:43] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 08:35:34] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 08:35:34] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 09:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 09:34:45] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 09:45:35] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 09:45:35] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 09:45:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 09:45:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 09:45:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 09:45:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 09:46:13] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 09:46:13] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 13:39:08] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 13:39:08] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 13:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 13:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 16:10:03] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 16:10:03] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-02 16:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-02 16:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-03 08:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-03 08:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-03 09:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-03 09:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-03 10:08:23] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-03 10:08:23] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 09:28:29] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 09:28:29] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 09:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 09:44:38] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 10:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 10:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 11:44:52] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 11:44:52] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 13:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 13:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 14:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 14:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 15:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 15:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-04 16:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Documents n'existe pas.
+[2026-06-04 16:44:37] AVERTISSEMENT : Le dossier C:\Users\TonNom\Pictures n'existe pas.
+[2026-06-05 10:35:54] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-05 10:35:54] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-05 10:36:07] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-05 10:36:07] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-05 11:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-05 11:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-05 12:44:37] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-05 12:44:37] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-08 08:08:44] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-08 08:08:44] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-08 08:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-08 08:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-08 09:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-08 09:44:38] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-08 10:34:57] AVERTISSEMENT : Le dossier C:\Users\Denis\Documents n'existe pas.
+[2026-06-08 10:34:57] AVERTISSEMENT : Le dossier C:\Users\Denis\Pictures n'existe pas.
+[2026-06-08 10:47:39] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-08 10:47:44] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-08 10:47:44] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-08 10:47:45] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-08 10:58:49] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-08 10:58:53] ERREUR : Code sortie 2 pour C:\Users\Denis_avdija\Documents
+[2026-06-08 10:58:53] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-08 10:58:57] SUCCES : Sauvegarde terminee pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 09:59:52] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 09:59:58] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 09:59:58] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 09:59:59] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:39] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:40] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:40] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:40] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:41] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:41] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:41] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:42] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:42] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:43] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:03:43] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:03:44] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:06:47] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:06:50] ERREUR : Code sortie 2 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:06:50] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:06:51] SUCCES : Sauvegarde terminee pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:08:00] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:08:01] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:08:01] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:08:02] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:17:42] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:17:46] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:17:46] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:17:47] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:02] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:02] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:02] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:03] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:06] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:07] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:07] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:08] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:19] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:19] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:19] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:20] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:20] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:21] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:18:21] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:18:22] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:13] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:14] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:14] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:15] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:39] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:40] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:40] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:41] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:50] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:51] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:51] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:52] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:55] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:56] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:19:56] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:19:57] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:20:25] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:20:27] ERREUR : Code sortie 2 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:20:27] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:20:28] SUCCES : Sauvegarde terminee pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 10:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 10:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 10:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 11:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 11:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 11:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 11:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-09 12:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-09 12:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-09 12:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-09 12:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 08:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 08:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 08:44:39] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 08:44:41] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 09:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 09:44:43] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 09:44:43] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 09:44:44] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 10:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 10:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 10:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 10:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 11:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 11:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 11:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 11:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 12:51:53] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 12:51:56] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 12:51:56] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 12:52:01] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 15:18:55] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 15:18:56] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 15:18:56] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 15:18:57] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 16:08:06] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 16:08:07] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 16:08:07] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 16:08:08] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-12 16:44:37] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-12 16:44:38] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-12 16:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-12 16:44:39] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-15 12:02:54] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-15 12:03:00] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-15 12:03:00] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-15 12:03:01] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
+[2026-06-16 08:44:38] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Documents
+[2026-06-16 08:44:43] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Documents
+[2026-06-16 08:44:43] DEBUT : Sauvegarde de C:\Users\Denis_avdija\Pictures
+[2026-06-16 08:44:44] ERREUR : Code sortie 1 pour C:\Users\Denis_avdija\Pictures
