@@ -41,6 +41,6 @@ Une fois que ton script fonctionne parfaitement quand tu le lance manuellement:
 - Crée une nouvelle tâche qui exécute ton script Powerhell.
 - Règle le déclencheur pour quàil se répète **toutes les heure, indéfiniment**.
 ># [!NOTE] En cas de bloquage vous pouvez vous aidé des code mis a disposition.
-# 
+## Ce que j'ai appris dans ce projet 
 - Avec cette éxercice j'ai pu toucher aux compétences clés d'un administrateur système ou d'un ingégnieur Cloud : la gestion des API, le scripting d'automatisation et la gestion des sauvegardes. 
 - J'ai pu prendre mon temps, pour avancer étapes par étapes sans avoir de stresse mais surtout pour bien faire tout dans l'ordre (d'abord l'outil AWS CLI, ensuite le script sur un seul dossier, puis la boucle et le planificateur). Et aussi si j'était coincée sur une commande PowerShell, l'important était de comprendre la logique, et ensuite ajuster la syntaxe avec le chef de mon projet.
