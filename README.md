@@ -1,4 +1,3 @@
-># [!NOTE] En cas de bloquage vous pouvez vous aidé des code mis a disposition.
 # backups-S3
 Le but de ce backup est de créer une automatisation pour envoyer tous nos documents depuis le repo que l'on veut directement dans un cloud (dans cet exemple j'ai utilisé le cloud d'Exoscale). Tout en utilisant les outils AWS et les sincroniser avec les outil S3.
 
@@ -41,3 +40,4 @@ Une fois que ton script fonctionne parfaitement quand tu le lance manuellement:
 - Ouvre le **Plannificateur de tâches Windows**.
 - Crée une nouvelle tâche qui exécute ton script Powerhell.
 - Règle le déclencheur pour quàil se répète **toutes les heure, indéfiniment**.
+># [!NOTE] En cas de bloquage vous pouvez vous aidé des code mis a disposition.
